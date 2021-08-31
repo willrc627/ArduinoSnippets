@@ -31,4 +31,4 @@ This means that the Controller and Peripheral will <i>always</i> be out of sync 
 
 ## Questions
 
-GitHub: [@willrc627](https://www.github.com/willrc627)
+GitHub: [@wrcrooks](https://www.github.com/wrcrooks)

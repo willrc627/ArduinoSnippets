@@ -8,4 +8,4 @@ Random Arduino Code Snippets
 
 ## Questions
 
-GitHub: [@willrc627](https://www.github.com/willrc627)
+GitHub: [@wrcrooks](https://www.github.com/wrcrooks)
